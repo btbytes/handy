@@ -1,0 +1,11 @@
+/* css *reset* to suit my tastes */
+/* Paste this into the stylebot's `edit css` window */
+
+body {
+  color: #000;
+  font-family: sans-serif;
+  max-width:52em;
+}
+a{
+  color: #900;
+}
