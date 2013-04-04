@@ -1,10 +1,12 @@
-/* css *reset* to suit my tastes */
+/* CSS *reset* to suit my tastes */
 /* Paste this into the stylebot's `edit css` window */
 
 body {
   color: #000;
   font-family: sans-serif;
+  font-size: 12pt;
   max-width:52em;
+  margin: 2em;
 }
 a{
   color: #900;
